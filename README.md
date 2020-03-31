@@ -1,3 +1,3 @@
 # hello-world
-my beginning
-my first try
+my beginning and my first try
+learn what the branch is
